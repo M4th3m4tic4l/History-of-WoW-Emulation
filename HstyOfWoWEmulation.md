@@ -1007,4 +1007,6 @@ WCell is utilizing NHibernate as its DB layer and with planned release of C# 4.0
 
 You can support the WCell by adding this userbar to your signature at forums you are using.
 
+# Source
+
 Source: https://web.archive.org/web/20100731004936/http://www.gotwow.ic.cz/
