@@ -1,4 +1,4 @@
-01 - Ancient History
+# 01 - Ancient History
 
 It all began with Skull’s wish to get his hands on World of Warcraft Alpha, which was purely internal and wasn’t supposed to get out of Blizzard itself. He tried to form a team to hack into Blizzard’s servers and grab the client that way. There were multiple problems with this however as he soon discovered. It is rumored that eventually he made a contact inside of Blizzard and got the client from them. It was never told how and exactly when, but it was out…
 
@@ -65,7 +65,7 @@ Spacey’s prophecy
 
 
 
-02 - Golden Age
+# 02 - Golden Age
 
 sticker
 
@@ -219,7 +219,7 @@ After the community had moved to Blizzhackers and before Team Python expansion t
 
 
 
-03 - Story of WOW(Ds)
+# 03 - Story of WOW(Ds)
 
 Story of WOW(D, Daemon, Craft, Quest)
 
@@ -270,7 +270,7 @@ Pretty soon after this we got NPC, Quest, Venders and other NPC’S vital to the
 
 
 
-04 - Dark Ages
+# 04 - Dark Ages
 
 Dark Ages of Blizzhackers.com
 As I’ve never been here in beginnings. Let me just shortly summarize it. Servers went on development, Team Python was only public server for a long time, everybody has been fixing, coding and creating database (AFAIK the most completed DB was done by Hav0k team. Other teams derived from Team Python server went underground (WOWD and others), some tried to continue (WSD) but with the retail release of WOW, they stopped, since there was a problem with SRP6 coding (don’t ask me technical questions). Last Team Python (WSD was for 0.11.0, 1.2.1 release was fake that was never functional and freezes on connect) and finally WOWEmu arises… in the begining, nobody wanted to believe that russian author named WAD really sells his own creation (with stolen code from Stormcraft and other… is it said it is based on RunUO server (this hasn’t been proved) but WAD himself says that WoWEmu was written on c++ and was based on his own DAOC and EQ emus.) and his callbacks were easily removed, so others can play on emu.
@@ -363,7 +363,7 @@ Answers by wad. 23/04/2006, Reprinting is forbidden
 
 
 
-05 - Say WowwoW!
+# 05 - Say WowwoW!
 
 NOX and rise of WoWWoW
 Guy named Kolie tried to convince public that his emulator called NOX will be the most feature-full emu of all the times, all he did (and of course he helped a lot to community and we are thankful for that) was releasing of WOWSRP6 dll, which helped Dr.Nexus. After Kolie released this library, he went who-knows-where. Farewell NOX and welcome WoWWoW. Dr.Nexus, the one of hard working guys out there, decompiled the Kolie’s dll and released C# code with WOW-SRP protocol to public.
@@ -421,7 +421,7 @@ Maybe they switched the domain to another location to get rid of all the noobs s
 
 
 
-06 - OpenWOW
+# 06 - OpenWOW
 
 Rise and fall of OpenWOW
 m4rku5 recruited few guys to continue work on WSD, and he has never been seen after that. At that time only Joker was the on the team besides him (Power2All hung around, but wasn’t a developer) at that time Joker started to recruit more guys for m4rku5, but since he never came around ever again we decided to just form our own team and change the name to OpenWoW and thats how it all started. Open-source minded coders joined together and started to completely rewrite Team Python’s core. Meanwhile there were WOWD coding underground. It was supposed to have these two emus merged, because OpenWOW had excellent core and WOWD was flowing with features. After the rewrite was completed, Blizzard started with signing affair again and forced OpenWOW team to stop, it was just before the merge was supposed to happen. Blizzard’s lawyers came to P2A’s house to shutdown OpenWOW and wowdev site he owned. Rest well OpenWOW team, hope you had fun and hope you don’t suffer from your doings. Thank you. And hoping MaNGOS (mentioned later) guys gonna take from you, as is was known OpenWOW has the best core :)
@@ -438,7 +438,7 @@ Also I would like to point again that our work is LEGAL from the point of view o
 
 Note for Bliz lawyers reading this: All this said is only MY OWN point of view. I haven’t discussed this post with other team members as most of them signed your inhuman agreement.
 
-07 - Flaming Blizzhackers
+# 07 - Flaming Blizzhackers
 
 Blizz-hackers: Flame-wars
 With force there comes responsibility (Story of WDDG)
@@ -462,7 +462,7 @@ You are right, I was the one who leaked Ludmilla (Crudmilla :P) I leaked the bin
 
 
 
-08 - Euro-Asiatic WOW
+# 08 - Euro-Asiatic WOW
 
 Eur-Asia strikes back
 I really don’t know where to attach RunWOW… completely separated emu, which is developed by Ukrainians (they refuse to let out source, they even don’t want to let out bins, and they don’t posses server able to handle international players, so only Ukrainians have they’re own private WOW) They faked being taken down by Blizzard so they can get back with more updates later on… Ukrainian RunWoW project started in November 2003. It is developed in C# and uses CodeDom to compile script part. Unlike RunUO its core is only script compiler/launcher and network gate. Uses Kolie’s SRP.dll, some knowledge and code from other emus (RunUO timers, WoWDeamon-like DB/UpdateFields attributes system and so on). It is closed-source project developed for http://www.wow.wnet.ua game server. RunWoW team started with Nomad (developer) and vhf (DB guru). It’s said that both sources and DB got leaked, but noone knows where truth lies. Now it contains some DB operators and formula masters: Belka, Joe and others.
@@ -471,7 +471,7 @@ Something have changed when post on BH announced new emu… RunWOW (not to mix i
 
 
 
-09 - World of Tomorrwow
+# 09 - World of Tomorrwow
 
 World of Tomorrwow
 Many emulators went around and left. Let me name some… Thanatos (Stormcraft continued, well known hoax), eWOW updated (ewow with support of 1.8.0), Simpleserv (Czech guy who made a bet for 2000€ that he can complete Java-based emulator until 1.1.2006), DelphiEmu which come out of nowhere with basic functionality (done by user456) and lots of forgotten ones. Three main emus left: MaNGOS (not really WOW server, but multi server which supports WOW, steady progress in here, open source, anyone can join and help, looks organised, has the best presentation), WowwoW (ideal small-business server with really scriptable everything outside the core, state unknown as Dr.Nexus is working in the privacy). Let’s hope players (me) will get a really good emu soon and wish devs enough of patience with coding, flaming and complaining and WOW itself.
@@ -491,7 +491,7 @@ Jimbo: nice one
 
 
 
-10 - Times are going mad
+# 10 - Times are going mad
 
 Times are going mad
 Pandora (‘s Box)
@@ -574,7 +574,7 @@ By the way, I had a conversation with a WDDG developer and he said that the mone
 
 
 
-11 - MaNGOS
+# 11 - MaNGOS
 
 MaNGOS for everyone (http://www.getmangos.com)
 Do you like fresh fruit? Then MaNGOS is definitely for you. Even if it isn’t meant as pure emulator, but as project of MMORPG server with support for many games (more like universal MMO-framework) I’ll mention it. MaNGOS started as a small project with few coders and grown up to maturity. It uses WOWD core as a base and modifies it to fit it’s needs. Open source and professional approach from team makes them to look really promising. The management of the project was taken care of by theluda. Few of coders, namely mmcs and Phantomas left the team to take care about their things (you know… life and so :)). theluda got uneasy task to keep moral of the remaining team up. On the 24th March, the first developer meeting happened and targets of development were set.
@@ -670,7 +670,7 @@ I am not posting this to start a polemic, but just to clarify that UDB was plann
 
 
 
-12 - Doesn’t fit anywhere
+# 12 - Doesn’t fit anywhere
 
 DelphiEmu, Delfin, OpenDelfin (http://forum.delfin-wow.ru/)
 user456 started to post his development goals on Blizzhackers. Later, he opened his own website and got Russian Delphi developers to help him with his work. His emu is in the beginning of his life and slowly building up decent features and game works and uses DBC file database. In the beginning it all started as try to find out how the DBCs works and evolved to pretty nice program. Delfin is still evolving pretty slow, but steadily. Nowadays every month the new alpha version is thrown to the masses. Features are growing and bugs are being squashed. Good luck to next months/years. At the recent state, this emulator is much developed, but also the developers aren’t open minded so they require payments for this piece of software. I also doubt that there is any info publicly available in English, so I’d expect it not to be popular, hope developers can prove me wrong.
@@ -779,7 +779,7 @@ http://filebeam.com/f50a1fd33eb4207c1c4100b3ba06fd96
 Password: decompile
 
 
-13 - WOWD
+# 13 - WOWD
 
 As you may remember WOWD, it was the old school emulator written in C++, being underground and then once again being leaked and then underground again. Famous and infamous emulator, being the main thing everyone aimed for, it was even the base for MaNGOS server and many others. Let’s look at it closely.
 
@@ -955,7 +955,7 @@ As the things were going down, Burlex openly admitted that he is keeping code cl
 
 
 
-14 - The Trinity project
+# 14 - The Trinity project
 
 The Trinity project was originally suggested in the UDB community (privately) because some devs were unsatisfied with the MaNGOS team being “slow at accepting patches that were deemed stable ages ago, and thus lacking proper support for DB devs”.
 
@@ -988,7 +988,7 @@ DivinityDB later decided to support InfinityCore instead (http://www.infinitycor
 
 
 
-15 - WCell
+# 15 - WCell
 
 WCell (http://www.wcell.org)
 Above the drama and apart from the fray, stands an emulator built from the ground up in C#. WCell started when WOWD was already 3 years in development, a significant hurdle to overcome. Developers have come and gone, but WCell has been worked on actively without interruptions.
